@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Sicong Li (李斯骢, E-mail: lisicong@iie.ac.cn). Now I am a PhD. student at Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow) and [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/).  I have received the B.E. degree in computer science and technology from Beihang University in 2024. My research interests include machine learning and computer vision. I have authored or co-authored several academic papers in top-tier international conferences and journals, including ICML, CVPR, TPAMI, etc. If you are interested in my research, please email me at lisicong@iie.ac.cn.
+Hi! I'm Sicong Li (李斯骢, E-mail: lisicong@iie.ac.cn). Now I am a PhD. student at Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow) and [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS).  I have received the B.E. degree in computer science and technology from Beihang University in 2024. My research interests include machine learning and computer vision. I have authored or co-authored several academic papers in top-tier international conferences and journals, including ICML, CVPR, TPAMI, etc. If you are interested in my research, please email me at lisicong@iie.ac.cn.
 
 
 

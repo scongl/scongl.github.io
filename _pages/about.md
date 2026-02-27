@@ -63,6 +63,8 @@ Zhiyong Yang, Qianqian Xu, Zitai Wang, **Sicong Li**, Boyu Han, Shilong Bao, Xia
 
 # 🥇 Competitions
 
+<span class='anchor' id='-competitions'></span>
+
 **<font size=4>3DCoMPaT Grounded CoMPaT Recognition Challenge (Fine track) @ CVPR 2025, 1st Place</font>**
 
 Team: **Sicong Li**, Qianqian Xu, Cong Hua, Yangbangyan Jiang, Qingming Huang
@@ -95,6 +97,8 @@ Team: Boyu Han, Qianqian Xu, Shilong Bao, Zhiyong Yang, **Sicong Li**, Qingming 
 
 
 # 🎓 Educations
+
+<span class='anchor' id='-educations'></span>
 
 <div class='school-box'>
 <div><img src='images/ucas.jpg' alt="sym" width="80"></div>

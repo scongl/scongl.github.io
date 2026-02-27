@@ -50,7 +50,7 @@ Zhikang Xu, Qianqian Xu, Zitai Wang, Cong Hua, **Sicong Li**, Zhiyong Yang, and 
 
 [DirMixE: Harnessing Test Agnostic Long-tail Recognition with Hierarchical Label Variations]()
 
-Zhiyong Yang, Qianqian Xu, **Sicong Li**, Zitai Wang, Xiaochun Cao, and Qingming Huang. DirMixE: Harnessing Test Agnostic Long-tail Recognition with Hierarchical Label Variations. IEEE Transactions on Pattern Analysis and Machine Intelligence **<font color='red'>(TPAMI, IF: 18.6)</font>**, 2025. (Accepted, DOI: 10.1109/TPAMI.2025.3647124)
+Zhiyong Yang, Qianqian Xu, **Sicong Li**, Zitai Wang, Xiaochun Cao, and Qingming Huang. DirMixE: Harnessing Test Agnostic Long-tail Recognition with Hierarchical Label Variations. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. (Accepted, DOI: 10.1109/TPAMI.2025.3647124)
 
 
 

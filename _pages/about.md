@@ -24,22 +24,6 @@ Hi! I'm Sicong Li (李斯骢, E-mail: lisicong@iie.ac.cn). Now I am a PhD. stude
 
 
 
-# 📖 Academic Services
-
-<span class='anchor' id='-academic-services'></span>
-
-
-## Conference
- - *ICML*: Reviewer (2025, 2026)
- - *NeurIPS*: Reviewer (2024, 2025)
- - *ICLR*: Reviewer (2025, 2026)
- - *CVPR*: Reviewer (2026)
-  
-## Journal
- - IEEE Transactions on Circuits and Systems for Video Technology (*IEEE TCSVT*): Reviewer
-
-
-
 # 📝 Publications 
 
 <span class='anchor' id='-publications'></span>
@@ -93,6 +77,20 @@ Team: Boyu Han, Qianqian Xu, Shilong Bao, Zhiyong Yang, **Sicong Li**, Qingming 
 [\[Website\]](https://egovis.github.io/cvpr25/) \| [\[Leaderboard\]](https://www.codabench.org/competitions/2613/#/results-tab)
 
 
+
+# 📖 Academic Services
+
+<span class='anchor' id='-academic-services'></span>
+
+
+## Conference
+ - *ICML*: Reviewer (2025, 2026)
+ - *NeurIPS*: Reviewer (2024, 2025)
+ - *ICLR*: Reviewer (2025, 2026)
+ - *CVPR*: Reviewer (2026)
+  
+## Journal
+ - IEEE Transactions on Circuits and Systems for Video Technology (*IEEE TCSVT*): Reviewer
 
 
 

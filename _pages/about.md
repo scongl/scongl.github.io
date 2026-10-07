@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Sicong Li (李斯骢, E-mail: lisicong@iie.ac.cn). Now I am a PhD. student at Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow) and [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS).  I have received the B.E. degree in computer science and technology from Beihang University in 2024. My research interests include machine learning and computer vision. I have authored or co-authored several academic papers in top-tier international conferences and journals, including ICML, CVPR, TPAMI, etc. If you are interested in my research, please email me at lisicong@iie.ac.cn.
+Hi! I'm Sicong Li (李斯骢, E-mail: lisicong@iie.ac.cn). Now I am a PhD. student at Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (Professor at UCAS, IEEE Fellow) and [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS).  I have received the B.E. degree in computer science and technology from Beihang University in 2024. My research interests include machine learning and computer vision. I have authored or co-authored several academic papers in top-tier international conferences and journals, including NeurIPS, ICML, CVPR, TPAMI, etc. If you are interested in my research, please email me at lisicong@iie.ac.cn.
 
 
 
@@ -29,13 +29,24 @@ Hi! I'm Sicong Li (李斯骢, E-mail: lisicong@iie.ac.cn). Now I am a PhD. stude
 <span class='anchor' id='-publications'></span>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/NeurIPS_2026_ToPA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning](https://scongl.github.io/)
+
+**Sicong Li**, Qianqian Xu, Zhiyong Yang, Zitai Wang, Linchao Zhang, Xiaochun Cao, and Qingming Huang. ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning. Advances in Neural Information Processing Systems (**NeurIPS**), 2026. \| [\[Code\]](https://scongl.github.io/)
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML_2025_FocalSAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification](https://arxiv.org/abs/2505.01660)
 
-**Sicong Li**, Qianqian Xu, Zhiyong Yang, Zitai Wang, Linchao Zhang, Xiaochun Cao, and Qingming Huang. Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification. International Conference on Machine Learning (**ICML**), 36624-36651, 2025. \| [\[Code\]](https://github.com/scongl/Focal-SAM)
+**Sicong Li**, Qianqian Xu, Zhiyong Yang, Zitai Wang, Linchao Zhang, Xiaochun Cao, and Qingming Huang. Focal-SAM: Focal Sharpness-Aware Minimization for Long-Tailed Classification. International Conference on Machine Learning (**ICML**), 2025. \| [\[Code\]](https://github.com/scongl/Focal-SAM)
 
 </div>
 </div>
@@ -56,7 +67,7 @@ Zhiyong Yang, Qianqian Xu, **Sicong Li**, Zitai Wang, Xiaochun Cao, and Qingmi
 
 [Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://arxiv.org/abs/2405.07780)
 
-Zhiyong Yang, Qianqian Xu, Zitai Wang, **Sicong Li**, Boyu Han, Shilong Bao, Xiaochun Cao, and Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 56624-56664, 2024. \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Video\]](https://youtu.be/oo2oFO0v_rM?si=_vcyqdWLtkzcvcjg)
+Zhiyong Yang, Qianqian Xu, Zitai Wang, **Sicong Li**, Boyu Han, Shilong Bao, Xiaochun Cao, and Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 2024. \| [\[Code\]](https://github.com/scongl/DirMixE) \| [\[Video\]](https://youtu.be/oo2oFO0v_rM?si=_vcyqdWLtkzcvcjg)
 
 
 
@@ -65,19 +76,23 @@ Zhiyong Yang, Qianqian Xu, Zitai Wang, **Sicong Li**, Boyu Han, Shilong Bao, Xia
 
 <span class='anchor' id='-competitions'></span>
 
+**<font size=4>VizWiz Grand Challenge (Grounding All Valid Answers track) @ CVPR 2026, 1st Place</font>**
+
+Team: **Sicong Li**, Qianqian Xu, Zhiyong Yang, Zitai Wang, Qingming Huang
+
+[\[Website\]](https://vizwiz.org/workshops/2026-vizwiz-grand-challenge-workshop/)
+
 **<font size=4>3DCoMPaT Grounded CoMPaT Recognition Challenge (Fine track) @ CVPR 2025, 1st Place</font>**
 
 Team: **Sicong Li**, Qianqian Xu, Cong Hua, Yangbangyan Jiang, Qingming Huang
 
-[\[Website\]](https://3dcompat-dataset.org/workshop/C3DV25/) \| [\[Leaderboard\]](https://eval.ai/web/challenges/challenge-page/2455/leaderboard/6096) 
-
+[\[Website\]](https://3dcompat-dataset.org/workshop/C3DV25/)
 
 **<font size=4>EgoVis HoloAssist Challenges @ CVPR 2025, 1st Place</font>**
 
 Team: Boyu Han, Qianqian Xu, Shilong Bao, Zhiyong Yang, **Sicong Li**, Qingming Huang
 
-[\[Website\]](https://egovis.github.io/cvpr25/) \| [\[Leaderboard\]](https://www.codabench.org/competitions/2613/#/results-tab)
-
+[\[Website\]](https://egovis.github.io/cvpr25/)
 
 
 # 📖 Academic Services
@@ -87,12 +102,10 @@ Team: Boyu Han, Qianqian Xu, Shilong Bao, Zhiyong Yang, **Sicong Li**, Qingming 
 
 ## Conference
  - *ICML*: Reviewer (2025, 2026)
- - *NeurIPS*: Reviewer (2024, 2025)
- - *ICLR*: Reviewer (2025, 2026)
+ - *NeurIPS*: Reviewer (2024, 2025, 2026)
+ - *ICLR*: Reviewer (2025, 2026, 2027)
  - *CVPR*: Reviewer (2026)
-  
-## Journal
- - IEEE Transactions on Circuits and Systems for Video Technology (*IEEE TCSVT*): Reviewer
+ - *AAAI*: Reviewer (2027)
 
 
 

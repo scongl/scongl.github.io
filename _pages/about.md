@@ -34,7 +34,7 @@ Hi! I'm Sicong Li (李斯骢, E-mail: lisicong@iie.ac.cn). Now I am a PhD. stude
 
 [ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning](https://scongl.github.io/)
 
-**Sicong Li**, Qianqian Xu, Zhiyong Yang, Zitai Wang, Linchao Zhang, Xiaochun Cao, and Qingming Huang. ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning. Advances in Neural Information Processing Systems (**NeurIPS**), 2026. \| [\[Code\]](https://scongl.github.io/)
+**Sicong Li**, Qianqian Xu, Zhiyong Yang, Zitai Wang, Longtao Huang, Xiaochun Cao, and Qingming Huang. ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning. Advances in Neural Information Processing Systems (**NeurIPS**), 2026. \| [\[Code\]](https://scongl.github.io/)
 
 </div>
 </div>
